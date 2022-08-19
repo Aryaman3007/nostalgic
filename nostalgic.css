@@ -1,0 +1,119 @@
+body{
+    margin:0;
+    font-family: "Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
+    
+}
+.main{
+    height: 2000px;
+    background-color:rgb(216, 255, 255);
+    font-family: "Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
+    
+}
+.INTRO-1{
+    font-size:32px;
+    font-family: "Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";    
+    
+}
+.Intro{
+    margin-bottom:30px;
+    font-size:20px;
+    line-height: 35px;
+}
+.header{
+    flex-direction: row;
+    margin-top: 0;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+
+}
+.title-1{
+
+    justify-content: space-between;
+    align-items: top;
+    margin-top:5px;
+}
+
+.nostalgic-title{
+    font-size: 80px;
+    margin:0;
+    text-align: center;
+    padding-top:0;
+    display:inline-block;
+    margin-left:400px;
+    color:white;
+    
+                
+}
+.content{
+    margin-top:150px;
+    margin-left:20px;
+    line-height: 26px;
+}
+.insta-1{
+    width:650px;
+    display:inline-block;
+    align-items: center;
+}
+.insta-2{
+    width:395px;
+    margin-left:30px;
+}
+.insta{
+    align-items: top;
+    margin:0;
+}
+.header{
+    background-color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: rgb(157, 152, 152);
+
+}
+.insta-con{
+    font-size:40px;  
+    margin-top:15px; 
+}
+
+.logo{
+    
+    margin:0;
+    display:inline-block;
+    height:80px;
+    width:80px;
+    margin-left:50px;
+    padding-top:10px;
+
+}
+.insta-logo{
+    width:25px;
+    height:25px;
+    margin-left:40px;
+    margin-top:5px;
+
+}
+.goto{
+    font-size:20px;
+    color:blue;
+}
+.goto:hover{
+    color:red;
+}
+.sub-topic{
+    font-size:40px; 
+
+}
+.scav-logo{
+    width:250px;
+    margin-left:300px;
+
+}
+.scav-logo1{
+    width:400px;
+    height:190px;
+    
+}
+.scav-con{
+    font-size:17px;
+}
